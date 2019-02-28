@@ -42,19 +42,19 @@ body {
     font-size: 3.5rem;
     font-weight: 700;
     padding-bottom: 3rem;
-    text-align: center;
   }
 
-  .button {
+  /* .button {
     margin: 0 auto;
     text-align: center;
-  }
+  } */
 
   .heading {
     position: absolute;
     left: 0;
     right: 0;
     top: 70%;
+    text-align: center;
   }
 
   .cta {
@@ -62,6 +62,7 @@ body {
     border: solid 2px #5c3d81;
     border-radius: 0.6rem;
     color: #5c3d81;
+    display: inline-block;
     font-family: "roboto mono", monospace, Helvetica, arial, sans-serif;
     font-size: 1.6rem;
     font-weight: bold;
@@ -72,7 +73,7 @@ body {
 
   .cta:hover {
     border: solid 2px #5c3d81;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.6);
     background: #5c3d81;
     color: #eee1da;
     transform: translateY(-5px);
