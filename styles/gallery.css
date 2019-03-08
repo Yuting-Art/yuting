@@ -20,7 +20,7 @@ body {
   flex: 1 0 auto;
   margin: 0 auto;
   width: 90%;
-  max-width: 1440px;
+  max-width: 1320px;
 }
 
 .fa, .fa-bars {
@@ -170,7 +170,7 @@ p{
   .container {
     clear: both;
     overflow: auto;
-    width: 70%;
+    width: 60%;
   }
 
   .navbar {
