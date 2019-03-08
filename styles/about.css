@@ -82,13 +82,21 @@ a {
 }
 
 section {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
+  line-height: 1.2;
   margin-bottom: 3rem;
 }
 
 
 h1 {
   font-weight: 700;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+p{
+  font-family: Helvetica, arial, sans-serif;
+  padding-bottom: 1rem;
 }
 
 hr {
@@ -190,7 +198,6 @@ p{
   }
 
   section {
-    font-size: 1.4rem;
     margin-bottom: 5rem;
   }
 
