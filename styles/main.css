@@ -15,7 +15,7 @@ body {
 }
 
 #hero-image {
-  background-image: url('images/hp_bg_small.png');
+  background-image: url('../images/hp_bg_small.png');
   background-repeat: no-repeat;
   /* Set rules to fill background */
     background-size: cover;
@@ -104,6 +104,6 @@ body {
   }
 
   #hero-image {
-    background-image: url('images/hp_bg_wide.png');
+    background-image: url('../images/hp_bg_wide.png');
   }
 }
