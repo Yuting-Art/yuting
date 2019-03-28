@@ -53,10 +53,6 @@ body {
   /* margin-left: 2rem; */
 }
 
-.logo-img {
-  width: 70%;
-}
-
 .navbar-toggle {
   cursor: pointer;
   font-size: 2.4rem;
@@ -181,7 +177,16 @@ p{
     padding-bottom: 0;
   }
 
+  .logo-img {
+    width: 80%;
+  }
+
+  .logo-svg {
+    width: 95%;
+  }
+
   .main-nav {
+    font-size: 1.2rem;
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
@@ -226,6 +231,15 @@ p{
       margin-top: 2rem;
       margin-bottom: 4rem;
     }
+
+    .main-nav {
+      font-size: 1.4rem;
+    }
+
+    .logo-svg {
+      width: 100%;
+    }
+
 
     .logo-img {
       width: 100%;
