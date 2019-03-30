@@ -36,7 +36,7 @@ var tobi = new Tobi({
     scroll: false,
 
     // is draggable?
-    draggable: false,
+    draggable: true,
 
     // Touch and mouse dragging threshold in pixels
     threshold: 20
