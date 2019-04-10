@@ -127,7 +127,7 @@ a img:hover {
 
 footer {
   flex-shrink: 0;
-  padding-top: 5rem;
+  padding-top: 3rem;
   padding-bottom: 2rem;
   text-align: center;
 }
@@ -138,7 +138,8 @@ footer {
   flex-wrap: wrap;
   height: 2rem;
   justify-content: space-between;
-  width: 20rem;
+  margin: 0 auto;
+  width: 15rem;
 }
 
 .contact-footer {
@@ -147,13 +148,9 @@ footer {
   width: 20rem;
 }
 
-.logo-footer {
-  display: none;
-  /* width: 4rem; */
-}
 
 .contact-icon-footer {
-  width: 1.5rem;
+  width: 2rem;
 }
 
 p{
